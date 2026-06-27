@@ -1,6 +1,6 @@
 # Axiom Bookmark 1 click
 
-SOL/BNB wallet
+SOL/BNB
 
 VIDEO/LIVE DEMO
 
