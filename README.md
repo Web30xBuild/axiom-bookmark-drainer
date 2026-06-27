@@ -1,4 +1,4 @@
-# Axiom Bookmark 1 click
+# Axiom Bookmark 
 
 SOL/BNB
 
